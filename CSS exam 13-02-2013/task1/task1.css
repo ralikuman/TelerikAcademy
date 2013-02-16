@@ -1,0 +1,46 @@
+/*NEW*/
+wrapper
+html, body, div, h1, img, p {
+  margin: 0;
+  padding: 0;
+  border: 0; }
+
+body {
+  font-family: Constantina, Georgia, "Nimbus Roman No9 L", serif;
+  font-size: 16px; }
+  body div#wrapper {
+    width: 930px;
+    max-width: 960px;
+    margin: 25px 25px 30px 25px;
+    border: 1px solid black;
+    border-radius: 15px;
+    position: relative;
+    background: #f9dbff;
+    background: -moz-linear-gradient(top, #de28ff 0%, #f9dbff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #de28ff), color-stop(100%, #f9dbff));
+    background: -webkit-linear-gradient(top, #de28ff 0%, #f9dbff 100%);
+    background: -o-linear-gradient(top, #de28ff 0%, #f9dbff 100%);
+    background: -ms-linear-gradient(top, #de28ff 0%, #f9dbff 100%);
+    background: linear-gradient(to bottom, #de28ff 0%, #f9dbff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='$start', endColorstr='$end', GradientType=0); }
+    body div#wrapper div h1 {
+      font-size: 1.8em;
+      padding: 15px 5px 35px 35px; }
+    body div#wrapper div img.left-arrow {
+      position: absolute;
+      left: 5px; }
+    body div#wrapper div img.right-arrow {
+      position: absolute;
+      left: 900px; }
+    body div#wrapper div p.postedby {
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+      width: 368px;
+      padding: 5px 15px;
+      margin-left: 50px;
+      margin-top: -30px; }
+    body div#wrapper div p.info {
+      padding: 20px 30px 35px 35px;
+      text-align: justify;
+      word-spacing: 0.9px;
+      word-wrap: normal; }
