@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\MobilePhoneDevice\obj\Debug\1.MobilePhoneDevice.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.pdb

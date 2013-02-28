@@ -1,0 +1,8 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\CallHistory\bin\Debug\CallHistory.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\CallHistory\bin\Debug\CallHistory.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\CallHistory\bin\Debug\CallHistory.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\CallHistory\bin\Debug\MobilePhoneDevice.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\CallHistory\bin\Debug\MobilePhoneDevice.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\CallHistory\obj\Debug\12. CallHistoryOfDevice.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\CallHistory\obj\Debug\CallHistory.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part I\DefineClassesPartI\CallHistory\obj\Debug\CallHistory.pdb
