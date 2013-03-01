@@ -207,18 +207,7 @@ public class GSM
             }
 
         }
-
         callHistory.RemoveAt(index);
-
-
-        //for (int i = 0; i < callHistory.Count; i++)
-        //{
-        //    if (callHistory[i].Date == enterDate)
-        //    {
-        //        callHistory.RemoveAt(i);
-        //        i--;
-        //    }
-        //}
     }
 
     public void ClearCallHistory()
