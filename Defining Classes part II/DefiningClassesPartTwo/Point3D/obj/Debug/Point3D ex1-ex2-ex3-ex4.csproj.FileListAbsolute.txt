@@ -1,0 +1,8 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\Point3D\bin\Debug\Point3D.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\Point3D\bin\Debug\Point3D.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\Point3D\bin\Debug\Point3D.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\Point3D\obj\Debug\Point3D.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\Point3D\obj\Debug\Point3D.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\Point3D\obj\Debug\Point3D ex1-ex2-ex3-ex4.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\Point3D\bin\Debug\GenericList.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\Point3D\bin\Debug\GenericList.pdb

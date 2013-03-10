@@ -1,0 +1,8 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods, Lambda Expressions and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodSubstring\bin\Debug\ExtensionMethodSubstring.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods, Lambda Expressions and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodSubstring\obj\Debug\ExtensionMethodSubstring.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods, Lambda Expressions and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodSubstring\obj\Debug\ExtensionMethodSubstring.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodSubstring\bin\Debug\ExtensionMethodSubstring.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodSubstring\obj\Debug\ExtensionMethodSubstring.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodSubstring\obj\Debug\ExtensionMethodSubstring.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodSubstring\bin\Debug\ExtensionMethodSubstring.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodSubstring\bin\Debug\ExtensionMethodSubstring.pdb

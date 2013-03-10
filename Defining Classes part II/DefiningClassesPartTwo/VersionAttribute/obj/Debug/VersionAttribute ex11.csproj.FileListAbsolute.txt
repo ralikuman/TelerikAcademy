@@ -1,0 +1,3 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\VersionAttribute\bin\Debug\VersionAttribute.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\VersionAttribute\obj\Debug\VersionAttribute.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\VersionAttribute\obj\Debug\VersionAttribute.pdb

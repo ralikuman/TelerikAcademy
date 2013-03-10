@@ -1,0 +1,3 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\FindStudents\bin\Debug\FindStudents.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\FindStudents\obj\Debug\FindStudents.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\FindStudents\obj\Debug\FindStudents.pdb

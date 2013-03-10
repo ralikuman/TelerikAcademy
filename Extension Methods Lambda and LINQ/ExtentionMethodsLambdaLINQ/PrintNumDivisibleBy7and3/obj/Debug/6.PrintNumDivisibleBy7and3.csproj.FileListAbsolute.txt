@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\PrintNumDivisibleBy7and3\obj\Debug\6.PrintNumDivisibleBy7and3.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\PrintNumDivisibleBy7and3\bin\Debug\PrintNumDivisibleBy7and3.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\PrintNumDivisibleBy7and3\bin\Debug\PrintNumDivisibleBy7and3.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\PrintNumDivisibleBy7and3\bin\Debug\PrintNumDivisibleBy7and3.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\PrintNumDivisibleBy7and3\obj\Debug\PrintNumDivisibleBy7and3.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\PrintNumDivisibleBy7and3\obj\Debug\PrintNumDivisibleBy7and3.pdb

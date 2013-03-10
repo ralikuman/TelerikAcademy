@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodsIEnumerable\bin\Debug\ExtensionMethodsIEnumerable.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodsIEnumerable\bin\Debug\ExtensionMethodsIEnumerable.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodsIEnumerable\bin\Debug\ExtensionMethodsIEnumerable.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodsIEnumerable\obj\Debug\2.ExtensionMethodsIEnumerable.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodsIEnumerable\obj\Debug\ExtensionMethodsIEnumerable.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Extension Methods Lambda and LINQ\ExtentionMethodsLambdaLINQ\ExtensionMethodsIEnumerable\obj\Debug\ExtensionMethodsIEnumerable.pdb

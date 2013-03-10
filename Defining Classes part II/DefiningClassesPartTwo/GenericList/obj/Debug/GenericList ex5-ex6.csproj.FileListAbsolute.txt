@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\GenericList\obj\Debug\GenericList.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\GenericList\obj\Debug\GenericList.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\GenericList\bin\Debug\GenericList.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\GenericList\bin\Debug\GenericList.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Defining Classes part II\DefiningClassesPartTwo\GenericList\obj\Debug\GenericList ex5-ex6.csprojResolveAssemblyReference.cache

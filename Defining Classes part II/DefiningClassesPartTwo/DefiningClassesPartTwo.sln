@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point3D ex1-ex2-ex3-ex4", "Point3D\Point3D ex1-ex2-ex3-ex4.csproj", "{587F858F-B0CD-431E-8293-6F2E654330A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList ex5-ex6", "GenericList\GenericList ex5-ex6.csproj", "{4819F3B5-9886-4410-B292-254FA230D6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionAttribute ex11", "VersionAttribute\VersionAttribute ex11.csproj", "{C41D8443-D951-4387-8131-AA409F86369A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{587F858F-B0CD-431E-8293-6F2E654330A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587F858F-B0CD-431E-8293-6F2E654330A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587F858F-B0CD-431E-8293-6F2E654330A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587F858F-B0CD-431E-8293-6F2E654330A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4819F3B5-9886-4410-B292-254FA230D6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4819F3B5-9886-4410-B292-254FA230D6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4819F3B5-9886-4410-B292-254FA230D6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4819F3B5-9886-4410-B292-254FA230D6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C41D8443-D951-4387-8131-AA409F86369A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41D8443-D951-4387-8131-AA409F86369A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41D8443-D951-4387-8131-AA409F86369A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41D8443-D951-4387-8131-AA409F86369A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
