@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part I\FundamentalPrinciplesPartOne\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part I\FundamentalPrinciplesPartOne\AnimalHierarchy\obj\Debug\AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part I\FundamentalPrinciplesPartOne\AnimalHierarchy\bin\Debug\AnimalHierarchy.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part I\FundamentalPrinciplesPartOne\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part I\FundamentalPrinciplesPartOne\AnimalHierarchy\obj\Debug\AnimalHierarchy.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part I\FundamentalPrinciplesPartOne\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb
