@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part II\FundamentalPrinciplesPartTwo\Bank\bin\Debug\Bank.exe.config
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part II\FundamentalPrinciplesPartTwo\Bank\obj\Debug\2.Bank.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part II\FundamentalPrinciplesPartTwo\Bank\bin\Debug\Bank.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part II\FundamentalPrinciplesPartTwo\Bank\bin\Debug\Bank.pdb
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part II\FundamentalPrinciplesPartTwo\Bank\obj\Debug\Bank.exe
+C:\Users\Tweety\Desktop\TELERIK\OOP\OOP Homeworks\Fundamental Principles  part II\FundamentalPrinciplesPartTwo\Bank\obj\Debug\Bank.pdb
