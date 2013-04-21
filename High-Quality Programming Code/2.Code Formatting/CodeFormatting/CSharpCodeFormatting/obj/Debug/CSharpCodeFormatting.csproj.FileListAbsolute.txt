@@ -1,0 +1,30 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\CSharpCodeFormatting.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\CSharpCodeFormatting.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\CSharpCodeFormatting.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\PowerCollections.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\System.Web.Http.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\PowerCollections.xml
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\System.Web.Http.xml
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\obj\Debug\CSharpCodeFormatting.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\obj\Debug\CSharpCodeFormatting.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\CSharpCodeFormatting.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\obj\Debug\CSharpCodeFormatting.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\obj\Debug\CSharpCodeFormatting.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\CSharpCodeFormatting.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\CSharpCodeFormatting.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\PowerCollections.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\System.Web.Http.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\PowerCollections.xml
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\System.Web.Http.xml
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK 2.Code Formatting\CodeFormattingCSharp\CSharpCodeFormatting\obj\Debug\CSharpCodeFormatting.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\bin\Debug\CSharpCodeFormatting.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\obj\Debug\CSharpCodeFormatting.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 2.Code Formatting\CodeFormatting\CSharpCodeFormatting\obj\Debug\CSharpCodeFormatting.pdb
