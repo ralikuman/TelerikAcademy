@@ -8,4 +8,5 @@ TelerikAcademy
 4. Extention Methods, lambda and LINQ - homework
 5. Fundamental principles Part One - homework
 6. Fundamental principles Part Two - homework
+7. test
 
