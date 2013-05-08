@@ -9,4 +9,3 @@ TelerikAcademy
 5. Fundamental principles Part One - homework
 6. Fundamental principles Part Two - homework
 
-test
