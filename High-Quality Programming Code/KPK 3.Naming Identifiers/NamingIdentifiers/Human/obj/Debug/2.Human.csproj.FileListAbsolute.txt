@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Human\bin\Debug\Human.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Human\bin\Debug\Human.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Human\bin\Debug\Human.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Human\obj\Debug\2.Human.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Human\obj\Debug\Human.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Human\obj\Debug\Human.pdb

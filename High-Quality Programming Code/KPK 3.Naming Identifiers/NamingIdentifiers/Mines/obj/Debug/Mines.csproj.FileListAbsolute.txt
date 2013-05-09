@@ -1,0 +1,5 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Mines\bin\Debug\Mines.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Mines\bin\Debug\Mines.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Mines\bin\Debug\Mines.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Mines\obj\Debug\Mines.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Mines\obj\Debug\Mines.pdb

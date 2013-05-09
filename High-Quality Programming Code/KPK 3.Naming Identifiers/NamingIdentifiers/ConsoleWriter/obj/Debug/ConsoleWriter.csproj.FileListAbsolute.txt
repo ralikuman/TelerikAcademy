@@ -1,0 +1,5 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\ConsoleWriter\bin\Debug\ConsoleWriter.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\ConsoleWriter\bin\Debug\ConsoleWriter.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\ConsoleWriter\bin\Debug\ConsoleWriter.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\ConsoleWriter\obj\Debug\ConsoleWriter.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\ConsoleWriter\obj\Debug\ConsoleWriter.pdb

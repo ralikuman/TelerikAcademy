@@ -1,0 +1,5 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Button\bin\Button.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Button\bin\Button.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Button\obj\Debug\Button.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Button\obj\Debug\Button.dll
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 3. Naming Identifiers\NamingIdentifiers\Button\obj\Debug\Button.pdb
