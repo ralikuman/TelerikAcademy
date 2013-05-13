@@ -1,0 +1,5 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 6. Control Flow Conditional\ControlFlowConditional\RefactorLoop\bin\Debug\RefactorLoop.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 6. Control Flow Conditional\ControlFlowConditional\RefactorLoop\bin\Debug\RefactorLoop.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 6. Control Flow Conditional\ControlFlowConditional\RefactorLoop\bin\Debug\RefactorLoop.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 6. Control Flow Conditional\ControlFlowConditional\RefactorLoop\obj\Debug\RefactorLoop.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 6. Control Flow Conditional\ControlFlowConditional\RefactorLoop\obj\Debug\RefactorLoop.pdb

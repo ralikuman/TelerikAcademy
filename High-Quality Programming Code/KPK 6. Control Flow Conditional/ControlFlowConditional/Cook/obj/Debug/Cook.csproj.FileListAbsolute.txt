@@ -1,0 +1,2 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 6. Control Flow Conditional\ControlFlowConditional\Cook\bin\Debug\Cook.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 6. Control Flow Conditional\ControlFlowConditional\Cook\obj\Debug\Cook.csprojResolveAssemblyReference.cache

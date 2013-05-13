@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ChefKitchen", "Cook\1.ChefKitchen.csproj", "{3E306E75-8237-48DD-8F1E-2B32D8C3C8B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Cell", "Cell\2.Cell.csproj", "{C593A93D-F4E3-41A5-AEB7-1DADA626E999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.RefactorLoop", "RefactorLoop\3.RefactorLoop.csproj", "{A4A8865E-FB00-459E-B091-26EA3CF69763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E306E75-8237-48DD-8F1E-2B32D8C3C8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E306E75-8237-48DD-8F1E-2B32D8C3C8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E306E75-8237-48DD-8F1E-2B32D8C3C8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E306E75-8237-48DD-8F1E-2B32D8C3C8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C593A93D-F4E3-41A5-AEB7-1DADA626E999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C593A93D-F4E3-41A5-AEB7-1DADA626E999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C593A93D-F4E3-41A5-AEB7-1DADA626E999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C593A93D-F4E3-41A5-AEB7-1DADA626E999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A8865E-FB00-459E-B091-26EA3CF69763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A8865E-FB00-459E-B091-26EA3CF69763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A8865E-FB00-459E-B091-26EA3CF69763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A8865E-FB00-459E-B091-26EA3CF69763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
