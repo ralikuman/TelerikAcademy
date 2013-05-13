@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 5. UsingVariablesDataExpressionsConstants\UsingProperName\Statistics\bin\Debug\Statistics.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 5. UsingVariablesDataExpressionsConstants\UsingProperName\Statistics\obj\Debug\2.Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 5. UsingVariablesDataExpressionsConstants\UsingProperName\Statistics\bin\Debug\Statistics.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 5. UsingVariablesDataExpressionsConstants\UsingProperName\Statistics\bin\Debug\Statistics.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 5. UsingVariablesDataExpressionsConstants\UsingProperName\Statistics\obj\Debug\Statistics.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 5. UsingVariablesDataExpressionsConstants\UsingProperName\Statistics\obj\Debug\Statistics.pdb

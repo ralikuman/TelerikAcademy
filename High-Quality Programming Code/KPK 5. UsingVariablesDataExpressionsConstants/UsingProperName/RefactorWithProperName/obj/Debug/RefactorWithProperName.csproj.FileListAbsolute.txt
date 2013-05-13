@@ -1,0 +1,1 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 5. UsingVariablesDataExpressionsConstants\UsingProperName\RefactorWithProperName\bin\Debug\RefactorWithProperName.exe.config
