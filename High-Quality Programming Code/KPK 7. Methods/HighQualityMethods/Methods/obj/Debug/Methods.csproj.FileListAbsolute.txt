@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 7. Methods\HighQualityMethods\Methods\bin\Debug\Methods.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 7. Methods\HighQualityMethods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 7. Methods\HighQualityMethods\Methods\bin\Debug\Methods.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 7. Methods\HighQualityMethods\Methods\bin\Debug\Methods.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 7. Methods\HighQualityMethods\Methods\obj\Debug\Methods.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 7. Methods\HighQualityMethods\Methods\obj\Debug\Methods.pdb
