@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Telerik.ILS.Common</name>
+    </assembly>
+    <members>
+        <member name="T:Telerik.ILS.Common.StringExtensionsExample">
+            <summary>
+             Example how can use class StringExtensions 
+            </summary>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensionsExample.Main">
+            <summary>
+            Example of class StringExtensions
+            </summary>
+        </member>
+        <member name="T:Telerik.ILS.Common.StringExtensions">
+            <summary>
+            Implementation of methods and functionality of class StringException
+            </summary>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Return string which representation is like 128-bit (16-byte) hash value of given input value.  
+            </summary>
+            <param name="input">string value which convert in hash value</param>
+            <returns>string in hexidecimal (16-byte) hash value</returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ToMd5Hash(System.String)"/> method.</remarks>
+            <code>
+            public static void Main()
+            {
+                string value = "StringExtensions";
+                Console.WriteLine(StringExtensions.ToMd5Hash(value)); // aeb321e7ed6fe8d70d430daccd79b183
+            }
+            </code>
+            </example>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)">
+             <summary>
+             Return boolean value is the given value contains in defined array of words
+             </summary>
+             <param name="input">string value to seek</param>
+             <returns>true if the value parameter occurs in determinate true words;  otherwise, false </returns>
+             <example>
+             <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ToBoolean(System.String)"/> method.
+             True values are: true, ok, yes, 1, да. 
+             </remarks>
+             <code>
+             public static void Main()
+             {
+                 string testTrue = "true";
+                 Console.WriteLine(StringExtensions.ToBoolean(testTrue)); // True
+            
+                 string testFalse = "false";
+                 Console.WriteLine(StringExtensions.ToBoolean(testFalse)); // False
+            
+                 string testYes = "yes";
+                 Console.WriteLine(StringExtensions.ToBoolean(testYes)); //True
+             }
+             </code>
+             </example>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToShort(System.String)">
+             <summary>
+             Return short value if can parse the input value
+             </summary>
+             <param name="input">string value to parse</param>
+             <returns>return short value if can parse the string value;  otherwise return 0 </returns>
+             <example>
+             <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ToShort(System.String)"/> method.
+             </remarks>
+             <code>
+             public static void Main()
+             {
+                 string testCorrectShortValue = "45";
+                 Console.WriteLine(StringExtensions.ToShort(testCorrectShortValue)); // 45
+            
+                 string testWrongShortValue = "45 wrong";
+                 Console.WriteLine(StringExtensions.ToShort(testWrongShortValue)); // 0
+             }
+             </code>
+             </example>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToInteger(System.String)">
+             <summary>
+             Return integer value if can parse the input value
+             </summary>
+             <param name="input">string value to parse</param>
+             <returns>return integer value if can parse the string value;  otherwise return 0 </returns>
+             <example>
+             <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ToInteger(System.String)"/> method.
+             </remarks>
+             <code>
+             public static void Main()
+             {
+                string testCorrectIntegerValue = "567567";
+                Console.WriteLine(StringExtensions.ToInteger(testCorrectIntegerValue)); // 567567
+            
+                string testWrongIntegerValue = "ineger 345";
+                Console.WriteLine(StringExtensions.ToInteger(testWrongIntegerValue)); // 0
+             }
+             </code>
+             </example>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToLong(System.String)">
+             <summary>
+             Return long value if can parse the input value
+             </summary>
+             <param name="input">string value to parse</param>
+             <returns>return long value if can parse the string value;  otherwise return 0 </returns>
+             <example>
+             <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ToLong(System.String)"/> method.
+             </remarks>
+             <code>
+             public static void Main()
+             {
+                 string testCorrectLongValue = "4589094568934839393";
+                 Console.WriteLine(StringExtensions.ToLong(testCorrectLongValue)); // 4589094568934839393
+            
+                 string testWrongLongValue = "45 wrong";
+                 Console.WriteLine(StringExtensions.ToLong(testWrongLongValue)); // 0
+             }
+             </code>
+             </example>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Return date and time expressed in the number of 100-nanosecond intervals in the Gregorian calendar 
+            </summary>
+            <param name="input">string value to parse</param>
+            <returns>return date and time expressed in the number of 100-nanosecond intervals;
+                     otherwise return 1.1.0001 г. 00:00:00 ч. 
+            </returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ToDateTime(System.String)"/> method.
+            </remarks>
+            <code>
+            public static void Main()
+            {
+                string correctDate = "2013.04.27 20:00";
+                Console.WriteLine(StringExtensions.ToDateTime(correctDate));  // 27.4.2013 г. 20:00:00 ч.
+            
+                string wrongDate = "wrongDate";
+                Console.WriteLine(StringExtensions.ToDateTime(wrongDate)); // 1.1.0001 г. 00:00:00 ч.
+            }
+            </code>
+            </example>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Return string representation with capitalize frist letter of given text
+            </summary>
+            <param name="input">string value to capitalize</param>
+            <returns>return string with capitalize first letter;</returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)"/> method.
+            </remarks>
+            <code>
+            public static void Main()
+            {
+                string capitalizeText = "telerik";
+                Console.WriteLine(StringExtensions.CapitalizeFirstLetter(capitalizeText)); // Telerik
+            }
+            </code>
+            </example>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Return string between two substrings 
+            </summary>
+            <param name="input">the hole string value</param>
+            <param name="startString">start substring</param>
+            <param name="endString">end substring </param>
+            <param name="startFrom">set start index to start search substring</param>
+            <returns>substring between start and end substring</returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.CapitalizeFirstLetter(System.String)"/> method.
+            </remarks>
+            <code>
+            public static void Main()
+            {
+                string descriptionOfDateTime = "Initializes a new instance of the DateTime structure to a specified number of ticks.";
+                Console.WriteLine(StringExtensions.GetStringBetween(descriptionOfDateTime, "new", "DateTime", 0)); //  instance of the
+            }
+            </code>
+            </example>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Return string in latin letters, if there is letters in cyrillic they are replaced with latin letters
+            </summary>
+            <param name="input">the string to seek</param>
+            <returns>string in latin letters</returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ConvertCyrillicToLatinLetters(System.String)"/> method.
+            </remarks>
+            <code>
+            public static void Main()
+            {
+                string cyrilicText = "Софтуерна академия";
+                Console.WriteLine(StringExtensions.ConvertCyrillicToLatinLetters(cyrilicText)); // Softuerna akademiya
+            }
+            </code>
+            </example>       
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Return string in cyrillic letters, if there is letters in latin they are replaced with cyrillic letters
+            </summary>
+            <param name="input">the string to seek</param>
+            <returns>string in cyrillic letters</returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)"/> method.
+            </remarks>
+            <code>
+            public static void Main()
+            {
+                string latinText = "Telerik";
+                Console.WriteLine(StringExtensions.ConvertLatinToCyrillicKeyboard(latinText)); // Телерик
+            }
+            </code>
+            </example>   
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Return string in latin representation if there are cyrillic letters
+            </summary>
+            <param name="input">the string to seek</param>
+            <returns>string value only in latin letters or numbers</returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ToValidUsername(System.String)"/> method.
+            </remarks>
+            <code>
+            public static void Main()
+            {
+                string username = "академия";
+                Console.WriteLine(StringExtensions.ToValidUsername(username)); // akademiya
+            }
+            </code>
+            </example>  
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Return file name in latin representation if there are cyrillic letters
+            </summary>
+            <param name="input">file name to seek</param>
+            <returns>file name only in latin letters or numbers</returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.ToValidLatinFileName(System.String)"/> method.
+            </remarks>
+            <code>
+            public static void Main()
+            {
+                string filename = @"file:///C:/Users/Desktop//дом-manipulation-демо/";
+                Console.WriteLine(StringExtensions.ToValidUsername(filename)); // fileCUsersDesktopdommanipulationdemo
+            }
+            </code>
+            </example>  
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Return substring from first characters by given count
+            </summary>
+            <param name="input">the given string to seek</param>
+            <param name="charsCount">count of characters to be extract like substring</param>
+            <returns>substring with length equal to charsCount</returns>
+            <example>
+            <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.GetFirstCharacters(System.String,System.Int32)"/> method.
+            </remarks>
+            <code>
+            public static void Main()
+            {
+                string descriptionOfMD5Algorithm = "The MD5 Message-Digest Algorithm is a widely used cryptographic hash function that produces a 128-bit (16-byte) hash value.";
+                Console.WriteLine(StringExtensions.GetFirstCharacters(descriptionOfMD5Algorithm, 32)); // The MD5 Message-Digest Algorithm
+            }
+            </code>
+            </example>       
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.GetFileExtension(System.String)">
+             <summary>
+             Return extension of file is there is
+             </summary>
+             <param name="fileName">string of given file name</param>
+             <returns>extracted extension name of file or empty string</returns>
+             <example>
+             <remarks>This sample shows how to call the <see cref="M:Telerik.ILS.Common.StringExtensions.GetFileExtension(System.String)"/> method.
+             </remarks>
+             <code>
+             public static void Main()
+             {
+                 string fileName = "telerik.docx";
+                 Console.WriteLine(StringExtensions.GetFileExtension(fileName)); //docx
+            
+                 string fileNameNoExtension = "telerik";
+                 Console.WriteLine(StringExtensions.GetFileExtension(fileNameNoExtension));
+             }
+             </code>
+             </example> 
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Return content type of parameter from given file name as parameter
+            </summary>
+            <param name="fileExtension">string of file name</param>
+            <returns>return content type as string</returns>
+        </member>
+        <member name="M:Telerik.ILS.Common.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Convert given string as parameter in sequence of bytes
+            </summary>
+            <param name="input">string value</param>
+            <returns>a byte array</returns>
+        </member>
+    </members>
+</doc>

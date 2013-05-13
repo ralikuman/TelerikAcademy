@@ -1,0 +1,7 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 4.Code Documentation and Comments\DocumentionAndComments\Telerik.ILS.Common\bin\Debug\Telerik.ILS.Common.exe.config
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 4.Code Documentation and Comments\DocumentionAndComments\Telerik.ILS.Common\bin\Debug\Telerik.ILS.Common.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 4.Code Documentation and Comments\DocumentionAndComments\Telerik.ILS.Common\bin\Debug\Telerik.ILS.Common.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 4.Code Documentation and Comments\DocumentionAndComments\Telerik.ILS.Common\obj\Debug\Telerik.ILS.Common.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 4.Code Documentation and Comments\DocumentionAndComments\Telerik.ILS.Common\obj\Debug\Telerik.ILS.Common.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 4.Code Documentation and Comments\DocumentionAndComments\Telerik.ILS.Common\obj\Debug\Telerik.ILS.Common.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 4.Code Documentation and Comments\DocumentionAndComments\Telerik.ILS.Common\bin\Debug\Telerik.ILS.Common.XML
