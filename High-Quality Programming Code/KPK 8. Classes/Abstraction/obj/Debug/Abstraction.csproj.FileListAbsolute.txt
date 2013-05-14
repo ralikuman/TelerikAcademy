@@ -1,0 +1,6 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Abstraction\obj\Debug\Abstraction.pdb

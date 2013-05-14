@@ -1,0 +1,10 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Cohesion-and-Coupling\bin\Debug\Cohesion-and-Coupling.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Cohesion-and-Coupling\obj\Debug\Cohesion-and-Coupling.csprojResolveAssemblyReference.cache

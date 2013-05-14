@@ -1,0 +1,10 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\Origin files\8. Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Inheritance-and-Polymorphism\obj\Debug\Inheritance-and-Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 8. Classes\Inheritance-and-Polymorphism\bin\Debug\Inheritance-and-Polymorphism.pdb
