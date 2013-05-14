@@ -1,0 +1,5 @@
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 9.Exceptions Assertions\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 9.Exceptions Assertions\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 9.Exceptions Assertions\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 9.Exceptions Assertions\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+C:\Users\Tweety\Desktop\TELERIK\Kachestven kod\KPK Homeworks\KPK 9.Exceptions Assertions\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
