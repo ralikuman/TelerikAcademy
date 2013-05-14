@@ -8,4 +8,12 @@ TelerikAcademy
 4. Extention Methods, lambda and LINQ - homework
 5. Fundamental principles Part One - homework
 6. Fundamental principles Part Two - homework
-7. test
+7. High Quality Code
+a)KPK 2.Code Formatting
+b)KPK 3.Naming Identifiers
+c)KPK 4.Code Documentation and Comments
+d)KPK 5. Using Variables Data Expressions Constants
+e)KPK 6. Control Flow Conditional
+f)KPK 7. Methods
+g)KPK 8. Classes
+h)KPK 9.Exceptions Assertions
